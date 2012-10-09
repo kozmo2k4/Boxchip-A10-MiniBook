@@ -1,4 +1,4 @@
 Boxchip-A10-MiniBook
 ====================
 
-llwinner10_Boxchip_MiniBook
+Allwinner_A10 BoxchipA10 MiniBook
